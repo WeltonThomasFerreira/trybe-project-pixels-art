@@ -9,8 +9,8 @@
 
 ## Habilidades
 
-- Manipular o DOM
-- Manipular o Javascript
+- Manipular o DOM;
+- Manipular o Javascript.
 
 ## Desenvolvimento
 Uma [página web](https://weltonthomasferreira.github.io/trybe-project-pixels-art/) que contém uma paleta de cores funcional que poderá ser utilizada para criar desenhos em pixels.
