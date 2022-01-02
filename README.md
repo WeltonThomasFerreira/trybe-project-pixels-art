@@ -15,10 +15,7 @@
 ## Desenvolvimento
 Uma página web que contém uma paleta de cores funcional que poderá ser utilizada para criar desenhos em pixels.
 
-<br>
-<div style="display: inline_block">
-  <img src="./readme/images/" alt="texto alternativo" style="width: 720px" />
-</div>
+![Imagem do site desenvolvido](./readme/images/site-pixels-art.png "Site")
 
 ## Resultados
 
