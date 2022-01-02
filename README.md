@@ -13,7 +13,7 @@
 - Manipular o Javascript
 
 ## Desenvolvimento
-Uma página web que contém uma paleta de cores funcional que poderá ser utilizada para criar desenhos em pixels.
+Uma [página web](https://weltonthomasferreira.github.io/trybe-project-pixels-art/) que contém uma paleta de cores funcional que poderá ser utilizada para criar desenhos em pixels.
 
 ![Imagem do site desenvolvido](./readme/images/site-pixels-art.png "Site")
 
